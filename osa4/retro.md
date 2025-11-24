@@ -1,0 +1,4 @@
+Retrospektiivi on iteraation lopussa pidettävä tapaaminen, jossa tiimin jäsenet keskusteleva, siitä miten asiat menivät. Mikä meni hyvin, missä parantamista. 
+Start, Stop, Continue, More of, Less of Wheelissä ideana on kartoittaa mitä käytänteitä tahdotaan aloittaa, lopetta tai jatkaa. More of, Less of osa kartoittaa sitä mitä tekniikoita tai käytänteitä halutaan lisätä tai vähentää täysin poistamatta niitä. Tiimi siis kartoittaa mitä käytänteitä he haluavat jatkossa käyttää ja mitä ei.
+Glad, Sad, Mad:ssä iteraation asiat jaetaan näihin kolmeen kategoriaan, jotka kuvastavat tiimin jäsenten suhtautumista niihin. Mikä sai iloiseksi, surulliseksi tai äkäiseksi. Menetelmän on tarkoitus olla aikaisempaa suorempi lähestymisessään.
+Tekniikoiden idea on helpottaa tiimin keskustelua ja avoimuutta siitä miltä ei aisia ja käytänteet tuntuivat iteraation aikana ja miten niitä voidaan parantaa tulevia iteraatioita varten.
